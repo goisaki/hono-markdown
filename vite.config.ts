@@ -1,4 +1,4 @@
-import build from '@hono/vite-cloudflare-pages'
+import build from '@hono/vite-ssg'
 import devServer from '@hono/vite-dev-server'
 import { defineConfig } from 'vite'
 
